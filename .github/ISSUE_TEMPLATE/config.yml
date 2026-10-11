@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Report a security vulnerability
+    url: https://github.com/ianderso/tna-discovery-mcp/security/advisories/new
+    about: Privately, not in a public issue. See SECURITY.md.
+  - name: A problem with Discovery or its catalogue descriptions
+    url: https://discovery.nationalarchives.gov.uk/
+    about: This project does not operate Discovery. Outages and wrong descriptions go to The National Archives.

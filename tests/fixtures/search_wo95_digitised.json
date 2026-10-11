@@ -1,0 +1,170 @@
+{
+ "records": [
+  {
+   "altName": "",
+   "places": [],
+   "corpBodies": [],
+   "taxonomies": [
+    "C10131",
+    "C10019",
+    "C10065",
+    "C10075",
+    "C10028",
+    "C10092"
+   ],
+   "formerReferenceDep": "",
+   "formerReferencePro": "",
+   "heldBy": [
+    "The National Archives, Kew"
+   ],
+   "context": "War Office: First World War and Army of Occupation War Diaries. PART I: FRANCE, BELGIUM AND GERMANY. 3 CORPS. Corps Troops.",
+   "content": "",
+   "urlParameters": null,
+   "department": "WO",
+   "note": "The pages in this item are part of a larger record (piece). The record has been split into smaller parts during the digitisation process.",
+   "adminHistory": "",
+   "arrangement": "",
+   "mapDesignation": "",
+   "mapScale": "",
+   "physicalCondition": "",
+   "catalogueLevel": 7,
+   "openingDate": "",
+   "closureStatus": "O",
+   "closureType": "N",
+   "closureCode": "30",
+   "documentType": "",
+   "coveringDates": "1918 Feb - 1918 Apr",
+   "description": "Corps Troops: 14 Entrenching Battalion. 16 Entrenching Battalion. 18 Entrenching Battalion.",
+   "endDate": "30/04/1918",
+   "numEndDate": 19180430,
+   "numStartDate": 19180201,
+   "startDate": "01/02/1918",
+   "id": "070d55720ea74c86a80597cf79302102",
+   "reference": "WO 95/700/5",
+   "score": 91.1197,
+   "source": "200",
+   "title": "Corps Troops: 14 Entrenching Battalion. 16 Entrenching Battalion. 18 Entrenching Battalion"
+  },
+  {
+   "altName": "",
+   "places": [],
+   "corpBodies": [],
+   "taxonomies": [
+    "C10019",
+    "C10065",
+    "C10075",
+    "C10128",
+    "C10028",
+    "C10092"
+   ],
+   "formerReferenceDep": "",
+   "formerReferencePro": "",
+   "heldBy": [
+    "The National Archives, Kew"
+   ],
+   "context": "War Office: First World War and Army of Occupation War Diaries. PART VI: MESOPOTAMIA, IRAQ AND NORTH PERSIA. GENERAL HEADQUARTERS. Army Troops.",
+   "content": "",
+   "urlParameters": null,
+   "department": "WO",
+   "note": "The pages in this item are part of a larger record (piece). The record has been split into smaller parts during the digitisation process.",
+   "adminHistory": "",
+   "arrangement": "",
+   "mapDesignation": "",
+   "mapScale": "",
+   "physicalCondition": "",
+   "catalogueLevel": 7,
+   "openingDate": "",
+   "closureStatus": "O",
+   "closureType": "N",
+   "closureCode": "30",
+   "documentType": "",
+   "coveringDates": "1917 May - 1920 Sept",
+   "description": "Army Troops: 62 Battalion Punjabis; 2/89 Battalion Punjabis; 32 Battalion Sikh Pioneers.",
+   "endDate": "30/09/1920",
+   "numEndDate": 19200930,
+   "numStartDate": 19170501,
+   "startDate": "01/05/1917",
+   "id": "734885d28d0b4928a43e2f75ca1989d8",
+   "reference": "WO 95/5003/2",
+   "score": 88.9942551,
+   "source": "200",
+   "title": "Army Troops: 62 Battalion Punjabis; 2/89 Battalion Punjabis; 32 Battalion Sikh Pioneers"
+  },
+  {
+   "altName": "",
+   "places": [],
+   "corpBodies": [],
+   "taxonomies": [
+    "C10019",
+    "C10065",
+    "C10075",
+    "C10128",
+    "C10028",
+    "C10092"
+   ],
+   "formerReferenceDep": "",
+   "formerReferencePro": "",
+   "heldBy": [
+    "The National Archives, Kew"
+   ],
+   "context": "War Office: First World War and Army of Occupation War Diaries. PART VI: MESOPOTAMIA, IRAQ AND NORTH PERSIA. GENERAL HEADQUARTERS. Army Troops.",
+   "content": "",
+   "urlParameters": null,
+   "department": "WO",
+   "note": "The pages in this item are part of a larger record (piece). The record has been split into smaller parts during the digitisation process.",
+   "adminHistory": "",
+   "arrangement": "",
+   "mapDesignation": "",
+   "mapScale": "",
+   "physicalCondition": "",
+   "catalogueLevel": 7,
+   "openingDate": "",
+   "closureStatus": "O",
+   "closureType": "N",
+   "closureCode": "30",
+   "documentType": "",
+   "coveringDates": "1918 Oct - 1920 Dec",
+   "description": "Army Troops: 1/4 Battalion Devonshire Regiment; 13 Battalion Rajputs; 1/26 Battalion Punjabis.",
+   "endDate": "31/12/1920",
+   "numEndDate": 19201231,
+   "numStartDate": 19181001,
+   "startDate": "01/10/1918",
+   "id": "b313275b17b64e74be2faea3ca6e7486",
+   "reference": "WO 95/5003/1",
+   "score": 87.77355,
+   "source": "200",
+   "title": "Army Troops: 1/4 Battalion Devonshire Regiment; 13 Battalion Rajputs; 1/26 Battalion Punjabis"
+  }
+ ],
+ "taxonomySubjects": [],
+ "timePeriods": [
+  {
+   "code": "1900",
+   "count": 3180
+  }
+ ],
+ "departments": [],
+ "catalogueLevels": [],
+ "closureStatuses": [],
+ "sources": [
+  {
+   "code": "200",
+   "count": 2722
+  },
+  {
+   "code": "100",
+   "count": 458
+  }
+ ],
+ "repositories": [],
+ "heldByReps": [
+  {
+   "code": "TNA",
+   "count": 3180
+  }
+ ],
+ "referenceFirstLetters": [],
+ "titleFirstLetters": [],
+ "count": 3180,
+ "nextBatchMark": ""
+}

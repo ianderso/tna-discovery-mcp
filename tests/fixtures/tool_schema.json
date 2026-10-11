@@ -1,0 +1,32 @@
+{
+  "browse": [
+    "after",
+    "limit",
+    "reference_or_id"
+  ],
+  "budget_status": [],
+  "find_soldier": [
+    "birthplace",
+    "discharged_from",
+    "discharged_to",
+    "forename",
+    "page",
+    "regiment",
+    "surname"
+  ],
+  "get_record": [
+    "hierarchy",
+    "id_or_reference"
+  ],
+  "search_records": [
+    "count",
+    "date_from",
+    "date_to",
+    "department",
+    "held_by",
+    "page",
+    "query",
+    "series",
+    "sort"
+  ]
+}

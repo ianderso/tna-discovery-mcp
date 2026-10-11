@@ -1,0 +1,123 @@
+{
+ "assets": [
+  {
+   "accessConditions": null,
+   "catalogueId": 688943,
+   "citableReference": "WO 97/5",
+   "closureCode": "30",
+   "closureStatus": "O",
+   "closureType": "N",
+   "coveringDates": "1760-1854",
+   "coveringFromDate": 17600101,
+   "coveringToDate": 18541231,
+   "scopeContent": {
+    "placeNames": null,
+    "description": "<scopecontent><p>Household Cavalry: Hamm - Hya</p></scopecontent>",
+    "ephemera": null,
+    "schema": null
+   },
+   "digitised": false,
+   "heldBy": [
+    {
+     "xReferenceId": "A13530124",
+     "xReferenceCode": "66",
+     "xReferenceName": "The National Archives, Kew",
+     "xReferenceType": null,
+     "xReferenceURL": null,
+     "xReferenceDescription": null,
+     "xReferenceSortWord": null
+    }
+   ],
+   "id": "C603696",
+   "isParent": true,
+   "catalogueLevel": 6,
+   "parentId": "C28938",
+   "recordOpeningDate": null,
+   "referencePart": "5",
+   "referenceParentId": "C14305",
+   "sortKey": "06 0 35000 0#5000",
+   "source": null,
+   "title": null
+  },
+  {
+   "accessConditions": null,
+   "catalogueId": 688944,
+   "citableReference": "WO 97/6",
+   "closureCode": "30",
+   "closureStatus": "O",
+   "closureType": "N",
+   "coveringDates": "1760-1854",
+   "coveringFromDate": 17600101,
+   "coveringToDate": 18541231,
+   "scopeContent": {
+    "placeNames": null,
+    "description": "<scopecontent><p>Household Cavalry: Idl - Lyl</p></scopecontent>",
+    "ephemera": null,
+    "schema": null
+   },
+   "digitised": false,
+   "heldBy": [
+    {
+     "xReferenceId": "A13530124",
+     "xReferenceCode": "66",
+     "xReferenceName": "The National Archives, Kew",
+     "xReferenceType": null,
+     "xReferenceURL": null,
+     "xReferenceDescription": null,
+     "xReferenceSortWord": null
+    }
+   ],
+   "id": "C603697",
+   "isParent": true,
+   "catalogueLevel": 6,
+   "parentId": "C28938",
+   "recordOpeningDate": null,
+   "referencePart": "6",
+   "referenceParentId": "C14305",
+   "sortKey": "06 0 36000 0#6000",
+   "source": null,
+   "title": null
+  },
+  {
+   "accessConditions": null,
+   "catalogueId": 688945,
+   "citableReference": "WO 97/7",
+   "closureCode": "30",
+   "closureStatus": "O",
+   "closureType": "N",
+   "coveringDates": "1760-1854",
+   "coveringFromDate": 17600101,
+   "coveringToDate": 18541231,
+   "scopeContent": {
+    "placeNames": null,
+    "description": "<scopecontent><p>Household Cavalry: McA - Owe</p></scopecontent>",
+    "ephemera": null,
+    "schema": null
+   },
+   "digitised": false,
+   "heldBy": [
+    {
+     "xReferenceId": "A13530124",
+     "xReferenceCode": "66",
+     "xReferenceName": "The National Archives, Kew",
+     "xReferenceType": null,
+     "xReferenceURL": null,
+     "xReferenceDescription": null,
+     "xReferenceSortWord": null
+    }
+   ],
+   "id": "C603698",
+   "isParent": true,
+   "catalogueLevel": 6,
+   "parentId": "C28938",
+   "recordOpeningDate": null,
+   "referencePart": "7",
+   "referenceParentId": "C14305",
+   "sortKey": "06 0 37000 0#7000",
+   "source": null,
+   "title": null
+  }
+ ],
+ "hasMoreAfterLast": true,
+ "hasMoreBeforeFirst": true
+}

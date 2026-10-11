@@ -1,0 +1,45 @@
+{
+ "assets": [
+  {
+   "accessConditions": "Open",
+   "catalogueId": 13072,
+   "citableReference": "WO 12",
+   "closureCode": "30",
+   "closureStatus": null,
+   "closureType": "N",
+   "coveringDates": "1732-1878",
+   "coveringFromDate": 17320101,
+   "coveringToDate": 18781231,
+   "scopeContent": {
+    "placeNames": null,
+    "description": "<scopecontent><head>Scope and Content</head><p>This series comprises muster books and pay lists of the Household troops, the cavalry, Guards and the regular infantry regiments of the line. Also special regiments or corps, colonial troops, various foreign legions and troops, general states and musters of regimental and other depots, etc. </p> <p>It provides a comprehensive means of establishing dates of enlistment, movements throughout the world, and of discharge or death. The first entry may show age on enlistment. An entry on the form 'Men becoming non-effective', sometimes found at the end of each quarter's musters, shows the birthplace, trade, and date of enlistment of any soldier discharged or dead during the quarter. </p> <p>Some muster books may include lists of men transferred from one battalion to another. </p> <p>From about 1868, at the end of each muster, may be found a Marriage Roll, which enumerates wives and children for whom married quarters were provided.</p></scopecontent>",
+    "ephemera": null,
+    "schema": null
+   },
+   "digitised": false,
+   "heldBy": [
+    {
+     "xReferenceId": "A13530124",
+     "xReferenceCode": "66",
+     "xReferenceName": "The National Archives, Kew",
+     "xReferenceType": null,
+     "xReferenceURL": null,
+     "xReferenceDescription": null,
+     "xReferenceSortWord": null
+    }
+   ],
+   "id": "C14223",
+   "isParent": true,
+   "catalogueLevel": 3,
+   "parentId": "C532",
+   "recordOpeningDate": null,
+   "referencePart": "12",
+   "referenceParentId": "C259",
+   "sortKey": "03 0 WO 112 0",
+   "source": null,
+   "title": "<unittitle type=\"Title\">Commissary General of Musters Office and successors: General Muster Books and Pay Lists</unittitle>"
+  }
+ ],
+ "hasMoreAfterLast": false,
+ "hasMoreBeforeFirst": false
+}

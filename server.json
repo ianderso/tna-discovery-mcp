@@ -1,0 +1,49 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.ianderso/tna-discovery-mcp",
+  "title": "UK National Archives Discovery",
+  "description": "Search the UK National Archives' Discovery catalogue; find Chelsea pensioners' papers in WO 97.",
+  "repository": {
+    "url": "https://github.com/ianderso/tna-discovery-mcp",
+    "source": "github"
+  },
+  "version": "0.1.0",
+  "packages": [
+    {
+      "registryType": "pypi",
+      "registryBaseUrl": "https://pypi.org",
+      "identifier": "tna-discovery-mcp",
+      "version": "0.1.0",
+      "runtimeHint": "uvx",
+      "transport": {
+        "type": "stdio"
+      },
+      "environmentVariables": [
+        {
+          "name": "TNA_DISCOVERY_TIMEOUT",
+          "description": "HTTP timeout in seconds for one request.",
+          "default": "30"
+        },
+        {
+          "name": "TNA_DISCOVERY_MIN_INTERVAL",
+          "description": "Least seconds between two requests. Never below 1, TNA's guideline.",
+          "default": "1"
+        },
+        {
+          "name": "TNA_DISCOVERY_DAILY_BUDGET",
+          "description": "Requests a day (UTC) before tools refuse. At most 3000, TNA's guideline.",
+          "default": "3000"
+        },
+        {
+          "name": "TNA_DISCOVERY_CONTACT",
+          "description": "An email address or URL appended to the User-Agent, so The National Archives can reach whoever runs the server."
+        },
+        {
+          "name": "TNA_DISCOVERY_STATE_DIR",
+          "description": "Directory for the day's call count, the one file the server writes (a date and a number).",
+          "default": "~/.local/state/tna-discovery-mcp"
+        }
+      ]
+    }
+  ]
+}

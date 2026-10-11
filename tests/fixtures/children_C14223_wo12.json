@@ -1,0 +1,776 @@
+{
+ "assets": [
+  {
+   "accessConditions": null,
+   "catalogueId": 44641,
+   "citableReference": null,
+   "closureCode": null,
+   "closureStatus": null,
+   "closureType": null,
+   "coveringDates": null,
+   "coveringFromDate": 0,
+   "coveringToDate": 0,
+   "scopeContent": {
+    "placeNames": null,
+    "description": null,
+    "ephemera": null,
+    "schema": null
+   },
+   "digitised": false,
+   "heldBy": [],
+   "id": "C52579",
+   "isParent": true,
+   "catalogueLevel": 4,
+   "parentId": "C14223",
+   "recordOpeningDate": null,
+   "referencePart": "1",
+   "referenceParentId": null,
+   "sortKey": "04 0 01 0",
+   "source": null,
+   "title": "<unittitle type = \"Title\">CAVALRY</unittitle>"
+  },
+  {
+   "accessConditions": null,
+   "catalogueId": 87773,
+   "citableReference": null,
+   "closureCode": null,
+   "closureStatus": null,
+   "closureType": null,
+   "coveringDates": null,
+   "coveringFromDate": 0,
+   "coveringToDate": 0,
+   "scopeContent": {
+    "placeNames": null,
+    "description": null,
+    "ephemera": null,
+    "schema": null
+   },
+   "digitised": false,
+   "heldBy": [
+    {
+     "xReferenceId": "A13530124",
+     "xReferenceCode": "66",
+     "xReferenceName": "The National Archives, Kew",
+     "xReferenceType": null,
+     "xReferenceURL": null,
+     "xReferenceDescription": null,
+     "xReferenceSortWord": null
+    }
+   ],
+   "id": "C88061",
+   "isParent": true,
+   "catalogueLevel": 4,
+   "parentId": "C14223",
+   "recordOpeningDate": null,
+   "referencePart": "2",
+   "referenceParentId": null,
+   "sortKey": "04 0 02 0",
+   "source": null,
+   "title": "<unittitle>FOOT GUARDS</unittitle>"
+  },
+  {
+   "accessConditions": null,
+   "catalogueId": 87777,
+   "citableReference": null,
+   "closureCode": null,
+   "closureStatus": null,
+   "closureType": null,
+   "coveringDates": null,
+   "coveringFromDate": 0,
+   "coveringToDate": 0,
+   "scopeContent": {
+    "placeNames": null,
+    "description": null,
+    "ephemera": null,
+    "schema": null
+   },
+   "digitised": false,
+   "heldBy": [
+    {
+     "xReferenceId": "A13530124",
+     "xReferenceCode": "66",
+     "xReferenceName": "The National Archives, Kew",
+     "xReferenceType": null,
+     "xReferenceURL": null,
+     "xReferenceDescription": null,
+     "xReferenceSortWord": null
+    }
+   ],
+   "id": "C88062",
+   "isParent": true,
+   "catalogueLevel": 4,
+   "parentId": "C14223",
+   "recordOpeningDate": null,
+   "referencePart": "3",
+   "referenceParentId": null,
+   "sortKey": "04 0 03 0",
+   "source": null,
+   "title": "<title>INFANTRY</title>"
+  },
+  {
+   "accessConditions": null,
+   "catalogueId": 88277,
+   "citableReference": null,
+   "closureCode": null,
+   "closureStatus": null,
+   "closureType": null,
+   "coveringDates": null,
+   "coveringFromDate": 0,
+   "coveringToDate": 0,
+   "scopeContent": {
+    "placeNames": null,
+    "description": null,
+    "ephemera": null,
+    "schema": null
+   },
+   "digitised": false,
+   "heldBy": [
+    {
+     "xReferenceId": "A13530124",
+     "xReferenceCode": "66",
+     "xReferenceName": "The National Archives, Kew",
+     "xReferenceType": null,
+     "xReferenceURL": null,
+     "xReferenceDescription": null,
+     "xReferenceSortWord": null
+    }
+   ],
+   "id": "C88319",
+   "isParent": true,
+   "catalogueLevel": 4,
+   "parentId": "C14223",
+   "recordOpeningDate": null,
+   "referencePart": "4",
+   "referenceParentId": null,
+   "sortKey": "04 0 04 0",
+   "source": null,
+   "title": "<title>BRIGADE DEPOTS</title>"
+  },
+  {
+   "accessConditions": null,
+   "catalogueId": 88284,
+   "citableReference": null,
+   "closureCode": null,
+   "closureStatus": null,
+   "closureType": null,
+   "coveringDates": null,
+   "coveringFromDate": 0,
+   "coveringToDate": 0,
+   "scopeContent": {
+    "placeNames": null,
+    "description": null,
+    "ephemera": null,
+    "schema": null
+   },
+   "digitised": false,
+   "heldBy": [
+    {
+     "xReferenceId": "A13530124",
+     "xReferenceCode": "66",
+     "xReferenceName": "The National Archives, Kew",
+     "xReferenceType": null,
+     "xReferenceURL": null,
+     "xReferenceDescription": null,
+     "xReferenceSortWord": null
+    }
+   ],
+   "id": "C88326",
+   "isParent": true,
+   "catalogueLevel": 4,
+   "parentId": "C14223",
+   "recordOpeningDate": null,
+   "referencePart": "5",
+   "referenceParentId": null,
+   "sortKey": "04 0 05 0",
+   "source": null,
+   "title": "<title>COLONIAL CORPS</title>"
+  },
+  {
+   "accessConditions": null,
+   "catalogueId": 88286,
+   "citableReference": null,
+   "closureCode": null,
+   "closureStatus": null,
+   "closureType": null,
+   "coveringDates": null,
+   "coveringFromDate": 0,
+   "coveringToDate": 0,
+   "scopeContent": {
+    "placeNames": null,
+    "description": null,
+    "ephemera": null,
+    "schema": null
+   },
+   "digitised": false,
+   "heldBy": [
+    {
+     "xReferenceId": "A13530124",
+     "xReferenceCode": "66",
+     "xReferenceName": "The National Archives, Kew",
+     "xReferenceType": null,
+     "xReferenceURL": null,
+     "xReferenceDescription": null,
+     "xReferenceSortWord": null
+    }
+   ],
+   "id": "C88327",
+   "isParent": true,
+   "catalogueLevel": 4,
+   "parentId": "C14223",
+   "recordOpeningDate": null,
+   "referencePart": "6",
+   "referenceParentId": null,
+   "sortKey": "04 0 06 0",
+   "source": null,
+   "title": "<title>STAFF CORPS/ REGIMENTAL SUPPORT/ SERVICE UNITS</title>"
+  },
+  {
+   "accessConditions": null,
+   "catalogueId": 88344,
+   "citableReference": null,
+   "closureCode": null,
+   "closureStatus": null,
+   "closureType": null,
+   "coveringDates": null,
+   "coveringFromDate": 0,
+   "coveringToDate": 0,
+   "scopeContent": {
+    "placeNames": null,
+    "description": null,
+    "ephemera": null,
+    "schema": null
+   },
+   "digitised": false,
+   "heldBy": [
+    {
+     "xReferenceId": "A13530124",
+     "xReferenceCode": "66",
+     "xReferenceName": "The National Archives, Kew",
+     "xReferenceType": null,
+     "xReferenceURL": null,
+     "xReferenceDescription": null,
+     "xReferenceSortWord": null
+    }
+   ],
+   "id": "C88361",
+   "isParent": true,
+   "catalogueLevel": 4,
+   "parentId": "C14223",
+   "recordOpeningDate": null,
+   "referencePart": "7",
+   "referenceParentId": null,
+   "sortKey": "04 0 07 0",
+   "source": null,
+   "title": "<title>FOREIGN TROOPS</title>"
+  },
+  {
+   "accessConditions": null,
+   "catalogueId": 88345,
+   "citableReference": null,
+   "closureCode": null,
+   "closureStatus": null,
+   "closureType": null,
+   "coveringDates": null,
+   "coveringFromDate": 0,
+   "coveringToDate": 0,
+   "scopeContent": {
+    "placeNames": null,
+    "description": null,
+    "ephemera": null,
+    "schema": null
+   },
+   "digitised": false,
+   "heldBy": [
+    {
+     "xReferenceId": "A13530124",
+     "xReferenceCode": "66",
+     "xReferenceName": "The National Archives, Kew",
+     "xReferenceType": null,
+     "xReferenceURL": null,
+     "xReferenceDescription": null,
+     "xReferenceSortWord": null
+    }
+   ],
+   "id": "C88362",
+   "isParent": true,
+   "catalogueLevel": 4,
+   "parentId": "C14223",
+   "recordOpeningDate": null,
+   "referencePart": "8",
+   "referenceParentId": null,
+   "sortKey": "04 0 08 0",
+   "source": null,
+   "title": "<title>DETACHMENTS</title>"
+  },
+  {
+   "accessConditions": null,
+   "catalogueId": 88346,
+   "citableReference": null,
+   "closureCode": null,
+   "closureStatus": null,
+   "closureType": null,
+   "coveringDates": null,
+   "coveringFromDate": 0,
+   "coveringToDate": 0,
+   "scopeContent": {
+    "placeNames": null,
+    "description": null,
+    "ephemera": null,
+    "schema": null
+   },
+   "digitised": false,
+   "heldBy": [
+    {
+     "xReferenceId": "A13530124",
+     "xReferenceCode": "66",
+     "xReferenceName": "The National Archives, Kew",
+     "xReferenceType": null,
+     "xReferenceURL": null,
+     "xReferenceDescription": null,
+     "xReferenceSortWord": null
+    }
+   ],
+   "id": "C88363",
+   "isParent": true,
+   "catalogueLevel": 4,
+   "parentId": "C14223",
+   "recordOpeningDate": null,
+   "referencePart": "9",
+   "referenceParentId": null,
+   "sortKey": "04 0 09 0",
+   "source": null,
+   "title": "<title>FENCIBLE REGIMENTS</title>"
+  },
+  {
+   "accessConditions": null,
+   "catalogueId": 88347,
+   "citableReference": null,
+   "closureCode": null,
+   "closureStatus": null,
+   "closureType": null,
+   "coveringDates": null,
+   "coveringFromDate": 0,
+   "coveringToDate": 0,
+   "scopeContent": {
+    "placeNames": null,
+    "description": null,
+    "ephemera": null,
+    "schema": null
+   },
+   "digitised": false,
+   "heldBy": [
+    {
+     "xReferenceId": "A13530124",
+     "xReferenceCode": "66",
+     "xReferenceName": "The National Archives, Kew",
+     "xReferenceType": null,
+     "xReferenceURL": null,
+     "xReferenceDescription": null,
+     "xReferenceSortWord": null
+    }
+   ],
+   "id": "C88364",
+   "isParent": true,
+   "catalogueLevel": 4,
+   "parentId": "C14223",
+   "recordOpeningDate": null,
+   "referencePart": "10",
+   "referenceParentId": null,
+   "sortKey": "04 0 110 0",
+   "source": null,
+   "title": "<title>DEPOTS</title>"
+  },
+  {
+   "accessConditions": null,
+   "catalogueId": 88348,
+   "citableReference": null,
+   "closureCode": null,
+   "closureStatus": null,
+   "closureType": null,
+   "coveringDates": null,
+   "coveringFromDate": 0,
+   "coveringToDate": 0,
+   "scopeContent": {
+    "placeNames": null,
+    "description": null,
+    "ephemera": null,
+    "schema": null
+   },
+   "digitised": false,
+   "heldBy": [
+    {
+     "xReferenceId": "A13530124",
+     "xReferenceCode": "66",
+     "xReferenceName": "The National Archives, Kew",
+     "xReferenceType": null,
+     "xReferenceURL": null,
+     "xReferenceDescription": null,
+     "xReferenceSortWord": null
+    }
+   ],
+   "id": "C88365",
+   "isParent": true,
+   "catalogueLevel": 4,
+   "parentId": "C14223",
+   "recordOpeningDate": null,
+   "referencePart": "11",
+   "referenceParentId": null,
+   "sortKey": "04 0 111 0",
+   "source": null,
+   "title": "<title>IRISH REGIMENTS/UNITS</title>"
+  },
+  {
+   "accessConditions": null,
+   "catalogueId": 88349,
+   "citableReference": null,
+   "closureCode": null,
+   "closureStatus": null,
+   "closureType": null,
+   "coveringDates": null,
+   "coveringFromDate": 0,
+   "coveringToDate": 0,
+   "scopeContent": {
+    "placeNames": null,
+    "description": null,
+    "ephemera": null,
+    "schema": null
+   },
+   "digitised": false,
+   "heldBy": [
+    {
+     "xReferenceId": "A13530124",
+     "xReferenceCode": "66",
+     "xReferenceName": "The National Archives, Kew",
+     "xReferenceType": null,
+     "xReferenceURL": null,
+     "xReferenceDescription": null,
+     "xReferenceSortWord": null
+    }
+   ],
+   "id": "C88366",
+   "isParent": true,
+   "catalogueLevel": 4,
+   "parentId": "C14223",
+   "recordOpeningDate": null,
+   "referencePart": "12",
+   "referenceParentId": null,
+   "sortKey": "04 0 112 0",
+   "source": null,
+   "title": "<title>COLONELS REGIMENTS</title>"
+  },
+  {
+   "accessConditions": null,
+   "catalogueId": 88350,
+   "citableReference": null,
+   "closureCode": null,
+   "closureStatus": null,
+   "closureType": null,
+   "coveringDates": null,
+   "coveringFromDate": 0,
+   "coveringToDate": 0,
+   "scopeContent": {
+    "placeNames": null,
+    "description": null,
+    "ephemera": null,
+    "schema": null
+   },
+   "digitised": false,
+   "heldBy": [
+    {
+     "xReferenceId": "A13530124",
+     "xReferenceCode": "66",
+     "xReferenceName": "The National Archives, Kew",
+     "xReferenceType": null,
+     "xReferenceURL": null,
+     "xReferenceDescription": null,
+     "xReferenceSortWord": null
+    }
+   ],
+   "id": "C88367",
+   "isParent": true,
+   "catalogueLevel": 4,
+   "parentId": "C14223",
+   "recordOpeningDate": null,
+   "referencePart": "13",
+   "referenceParentId": null,
+   "sortKey": "04 0 113 0",
+   "source": null,
+   "title": "<title>GARRISONS</title>"
+  },
+  {
+   "accessConditions": null,
+   "catalogueId": 88351,
+   "citableReference": null,
+   "closureCode": null,
+   "closureStatus": null,
+   "closureType": null,
+   "coveringDates": null,
+   "coveringFromDate": 0,
+   "coveringToDate": 0,
+   "scopeContent": {
+    "placeNames": null,
+    "description": null,
+    "ephemera": null,
+    "schema": null
+   },
+   "digitised": false,
+   "heldBy": [
+    {
+     "xReferenceId": "A13530124",
+     "xReferenceCode": "66",
+     "xReferenceName": "The National Archives, Kew",
+     "xReferenceType": null,
+     "xReferenceURL": null,
+     "xReferenceDescription": null,
+     "xReferenceSortWord": null
+    }
+   ],
+   "id": "C88368",
+   "isParent": true,
+   "catalogueLevel": 4,
+   "parentId": "C14223",
+   "recordOpeningDate": null,
+   "referencePart": "14",
+   "referenceParentId": null,
+   "sortKey": "04 0 114 0",
+   "source": null,
+   "title": "<title>VOLUNTEERS</title>"
+  },
+  {
+   "accessConditions": null,
+   "catalogueId": 88352,
+   "citableReference": null,
+   "closureCode": null,
+   "closureStatus": null,
+   "closureType": null,
+   "coveringDates": null,
+   "coveringFromDate": 0,
+   "coveringToDate": 0,
+   "scopeContent": {
+    "placeNames": null,
+    "description": null,
+    "ephemera": null,
+    "schema": null
+   },
+   "digitised": false,
+   "heldBy": [
+    {
+     "xReferenceId": "A13530124",
+     "xReferenceCode": "66",
+     "xReferenceName": "The National Archives, Kew",
+     "xReferenceType": null,
+     "xReferenceURL": null,
+     "xReferenceDescription": null,
+     "xReferenceSortWord": null
+    }
+   ],
+   "id": "C88369",
+   "isParent": true,
+   "catalogueLevel": 4,
+   "parentId": "C14223",
+   "recordOpeningDate": null,
+   "referencePart": "15",
+   "referenceParentId": null,
+   "sortKey": "04 0 115 0",
+   "source": null,
+   "title": "<title>INVALIDS</title>"
+  },
+  {
+   "accessConditions": null,
+   "catalogueId": 88353,
+   "citableReference": null,
+   "closureCode": null,
+   "closureStatus": null,
+   "closureType": null,
+   "coveringDates": null,
+   "coveringFromDate": 0,
+   "coveringToDate": 0,
+   "scopeContent": {
+    "placeNames": null,
+    "description": null,
+    "ephemera": null,
+    "schema": null
+   },
+   "digitised": false,
+   "heldBy": [
+    {
+     "xReferenceId": "A13530124",
+     "xReferenceCode": "66",
+     "xReferenceName": "The National Archives, Kew",
+     "xReferenceType": null,
+     "xReferenceURL": null,
+     "xReferenceDescription": null,
+     "xReferenceSortWord": null
+    }
+   ],
+   "id": "C88370",
+   "isParent": true,
+   "catalogueLevel": 4,
+   "parentId": "C14223",
+   "recordOpeningDate": null,
+   "referencePart": "16",
+   "referenceParentId": null,
+   "sortKey": "04 0 116 0",
+   "source": null,
+   "title": "<title>VETERANS</title>"
+  },
+  {
+   "accessConditions": null,
+   "catalogueId": 3156990,
+   "citableReference": "WO 12/603",
+   "closureCode": "30",
+   "closureStatus": "O",
+   "closureType": "N",
+   "coveringDates": "1859 - 1860",
+   "coveringFromDate": 18590101,
+   "coveringToDate": 18601231,
+   "scopeContent": {
+    "placeNames": null,
+    "description": "<scopecontent><p>3rd Hussars</p></scopecontent>",
+    "ephemera": null,
+    "schema": null
+   },
+   "digitised": false,
+   "heldBy": [
+    {
+     "xReferenceId": "A13530124",
+     "xReferenceCode": "66",
+     "xReferenceName": "The National Archives, Kew",
+     "xReferenceType": null,
+     "xReferenceURL": null,
+     "xReferenceDescription": null,
+     "xReferenceSortWord": null
+    }
+   ],
+   "id": "C2460438",
+   "isParent": false,
+   "catalogueLevel": 6,
+   "parentId": "C14223",
+   "recordOpeningDate": null,
+   "referencePart": "603",
+   "referenceParentId": "C14223",
+   "sortKey": "06 0 5603000 0#603000",
+   "source": null,
+   "title": null
+  },
+  {
+   "accessConditions": null,
+   "catalogueId": 3156991,
+   "citableReference": "WO 12/604",
+   "closureCode": "30",
+   "closureStatus": "O",
+   "closureType": "N",
+   "coveringDates": "1860 - 1861",
+   "coveringFromDate": 18600101,
+   "coveringToDate": 18611231,
+   "scopeContent": {
+    "placeNames": null,
+    "description": "<scopecontent><p>3rd Hussars</p></scopecontent>",
+    "ephemera": null,
+    "schema": null
+   },
+   "digitised": false,
+   "heldBy": [
+    {
+     "xReferenceId": "A13530124",
+     "xReferenceCode": "66",
+     "xReferenceName": "The National Archives, Kew",
+     "xReferenceType": null,
+     "xReferenceURL": null,
+     "xReferenceDescription": null,
+     "xReferenceSortWord": null
+    }
+   ],
+   "id": "C2460439",
+   "isParent": false,
+   "catalogueLevel": 6,
+   "parentId": "C14223",
+   "recordOpeningDate": null,
+   "referencePart": "604",
+   "referenceParentId": "C14223",
+   "sortKey": "06 0 5604000 0#604000",
+   "source": null,
+   "title": null
+  },
+  {
+   "accessConditions": null,
+   "catalogueId": 3156992,
+   "citableReference": "WO 12/605",
+   "closureCode": "30",
+   "closureStatus": "O",
+   "closureType": "N",
+   "coveringDates": "1861 - 1862",
+   "coveringFromDate": 18610101,
+   "coveringToDate": 18621231,
+   "scopeContent": {
+    "placeNames": null,
+    "description": "<scopecontent><p>3rd Hussars</p></scopecontent>",
+    "ephemera": null,
+    "schema": null
+   },
+   "digitised": false,
+   "heldBy": [
+    {
+     "xReferenceId": "A13530124",
+     "xReferenceCode": "66",
+     "xReferenceName": "The National Archives, Kew",
+     "xReferenceType": null,
+     "xReferenceURL": null,
+     "xReferenceDescription": null,
+     "xReferenceSortWord": null
+    }
+   ],
+   "id": "C2460440",
+   "isParent": false,
+   "catalogueLevel": 6,
+   "parentId": "C14223",
+   "recordOpeningDate": null,
+   "referencePart": "605",
+   "referenceParentId": "C14223",
+   "sortKey": "06 0 5605000 0#605000",
+   "source": null,
+   "title": null
+  },
+  {
+   "accessConditions": null,
+   "catalogueId": 3156993,
+   "citableReference": "WO 12/606",
+   "closureCode": "30",
+   "closureStatus": "O",
+   "closureType": "N",
+   "coveringDates": "1862 - 1863",
+   "coveringFromDate": 18620101,
+   "coveringToDate": 18631231,
+   "scopeContent": {
+    "placeNames": null,
+    "description": "<scopecontent><p>3rd Hussars</p></scopecontent>",
+    "ephemera": null,
+    "schema": null
+   },
+   "digitised": false,
+   "heldBy": [
+    {
+     "xReferenceId": "A13530124",
+     "xReferenceCode": "66",
+     "xReferenceName": "The National Archives, Kew",
+     "xReferenceType": null,
+     "xReferenceURL": null,
+     "xReferenceDescription": null,
+     "xReferenceSortWord": null
+    }
+   ],
+   "id": "C2460441",
+   "isParent": false,
+   "catalogueLevel": 6,
+   "parentId": "C14223",
+   "recordOpeningDate": null,
+   "referencePart": "606",
+   "referenceParentId": "C14223",
+   "sortKey": "06 0 5606000 0#606000",
+   "source": null,
+   "title": null
+  }
+ ],
+ "hasMoreAfterLast": true,
+ "hasMoreBeforeFirst": false
+}

@@ -1,0 +1,250 @@
+[
+ {
+  "accessConditions": null,
+  "catalogueId": 0,
+  "citableReference": "66",
+  "closureCode": null,
+  "closureStatus": null,
+  "closureType": null,
+  "coveringDates": null,
+  "coveringFromDate": 0,
+  "coveringToDate": 0,
+  "scopeContent": {
+   "placeNames": [
+    "Kew",
+    "Richmond",
+    "England",
+    "TW9 4DU"
+   ],
+   "description": null,
+   "ephemera": null,
+   "schema": null
+  },
+  "digitised": false,
+  "heldBy": [
+   {
+    "xReferenceId": null,
+    "xReferenceCode": "9",
+    "xReferenceName": null,
+    "xReferenceType": null,
+    "xReferenceURL": null,
+    "xReferenceDescription": null,
+    "xReferenceSortWord": null
+   }
+  ],
+  "id": "A13530124",
+  "isParent": true,
+  "catalogueLevel": 0,
+  "parentId": null,
+  "recordOpeningDate": null,
+  "referencePart": null,
+  "referenceParentId": null,
+  "sortKey": "Thenationalarchives",
+  "source": "Archon",
+  "title": "The National Archives"
+ },
+ {
+  "accessConditions": "Subject to 30 year closure unless otherwise stated",
+  "catalogueId": 259,
+  "citableReference": "WO",
+  "closureCode": "30",
+  "closureStatus": null,
+  "closureType": "N",
+  "coveringDates": "1568-2007",
+  "coveringFromDate": 0,
+  "coveringToDate": 0,
+  "scopeContent": {
+   "placeNames": null,
+   "description": "<scopecontent><head>Scope and Content</head><p>Records created or inherited by the War Office, Armed Forces, Judge Advocate General, and related bodies relating to the administration of the armed forces.</p> <p>Comprises records of: <list><item>General War Office records</item><item>Chief of the (Imperial) General Staff and its directorates</item><item>Commander-in-Chief, Military Secretary and Army Council</item><item>Army Medical services</item><item>Other administrative departments of the War Office</item><item>Finance departments</item><item>Central Department of the Permanent Secretary of State</item><item>Land Branch</item><item>Board of General Officers</item><item>Royal Chelsea and Kilmainham Hospitals</item><item>Constable of the Tower of London</item><item>Research establishments</item><item>Armed forces records from commands, headquarters, regiments and corps</item><item>Auxiliary forces</item><item>Army in Ireland</item><item>Armed forces service records</item><item>Private office papers and private collections</item><item>Commissions, committees and councils, etc</item><item>Ordnance Office and its War Office successors</item><item>Judge Advocate General</item></list></p> <p>WO 56, WO 125, WO 200, WO 249 and WO 289 are numbers not used.</p> <p>WO 20 and WO 21 were transferred to other series before 1905.</p></scopecontent>",
+   "ephemera": null,
+   "schema": null
+  },
+  "digitised": false,
+  "heldBy": [],
+  "id": "C259",
+  "isParent": true,
+  "catalogueLevel": 1,
+  "parentId": "A13530124",
+  "recordOpeningDate": null,
+  "referencePart": "WO",
+  "referenceParentId": "A13530124",
+  "sortKey": "01 0 WO",
+  "source": null,
+  "title": "<unittitle type=\"Title\">Records created or inherited by the War Office, Armed Forces, Judge Advocate General, and related bodies</unittitle>"
+ },
+ {
+  "accessConditions": null,
+  "catalogueId": 107,
+  "citableReference": null,
+  "closureCode": "30",
+  "closureStatus": null,
+  "closureType": "N",
+  "coveringDates": "1702-1980",
+  "coveringFromDate": 0,
+  "coveringToDate": 19801231,
+  "scopeContent": {
+   "placeNames": null,
+   "description": "<scopecontent><head>Scope and Content</head><p>Records of the Royal Chelsea and Kilmainham Hospitals relating to hospital for disabled soldiers.</p> <p>Comprises records of the Royal Chelsea Hospital: <list><item>Administrative records of the Chelsea hospital, <extref href=&#34http://discovery.nationalarchives.gov.uk/SearchUI/details?Uri=C14451&#34>WO 245</extref> to <extref href=&#34http://discovery.nationalarchives.gov.uk/SearchUI/details?Uri=C14454&#34>WO 248</extref>, <extref href=&#34http://discovery.nationalarchives.gov.uk/SearchUI/details?Uri=C14455&#34>WO 250</extref> and <extref href=&#34http://discovery.nationalarchives.gov.uk/SearchUI/details?Uri=C14456&#34>WO 251</extref></item><item>Invaliding Board minutes and papers, <extref href=&#34http://discovery.nationalarchives.gov.uk/SearchUI/details?Uri=C14387&#34>WO 180</extref></item><item>Admission books, registers, etc., <extref href=&#34http://discovery.nationalarchives.gov.uk/SearchUI/details?Uri=C14231&#34>WO 22</extref>, <extref href=&#34http://discovery.nationalarchives.gov.uk/SearchUI/details?Uri=C14232&#34>WO 23</extref>, <extref href=&#34http://discovery.nationalarchives.gov.uk/SearchUI/details?Uri=C14324&#34>WO 116</extref>, <extref href=&#34http://discovery.nationalarchives.gov.uk/SearchUI/details?Uri=C14325&#34>WO 117</extref> and <extref href=&#34http://discovery.nationalarchives.gov.uk/SearchUI/details?Uri=C14328&#34>WO 120</extref></item><item>Discharged service documents, <extref href=&#34http://discovery.nationalarchives.gov.uk/SearchUI/details?Uri=C14305&#34>WO 97</extref>, <extref href=&#34http://discovery.nationalarchives.gov.uk/SearchUI/details?Uri=C14329&#34>WO 121</extref>, <extref href=&#34http://discovery.nationalarchives.gov.uk/SearchUI/details?Uri=C14330&#34>WO 122</extref> and <extref href=&#34http://discovery.nationalarchives.gov.uk/SearchUI/details?Uri=C14338&#34>WO 131</extref></item><item>Selected files of in-pensioners who died between 1955 and 1980, <extref href=&#34http://discovery.nationalarchives.gov.uk/SearchUI/details?Uri=C14528&#34>WO 324</extref></item><item>Records relating to prize money, <extref href=&#34http://discovery.nationalarchives.gov.uk/SearchUI/details?Uri=C14371&#34>WO 164</extref></item></list></p> <p>Comprises records of the Kilmainham Hospital: <list><item>Admission books, <extref href=&#34http://discovery.nationalarchives.gov.uk/SearchUI/details?Uri=C14326&#34>WO 118</extref></item><item>Discharge documents, <extref href=&#34http://discovery.nationalarchives.gov.uk/SearchUI/details?Uri=C14327&#34>WO 119</extref></item></list></p></scopecontent>",
+   "ephemera": null,
+   "schema": null
+  },
+  "digitised": false,
+  "heldBy": [],
+  "id": "C537",
+  "isParent": true,
+  "catalogueLevel": 2,
+  "parentId": "C259",
+  "recordOpeningDate": null,
+  "referencePart": "10",
+  "referenceParentId": null,
+  "sortKey": "02 0 110 0",
+  "source": null,
+  "title": "<unittitle type=\"Title\">Records of the Royal Chelsea and Kilmainham Hospitals</unittitle>"
+ },
+ {
+  "accessConditions": "Available in digital format unless otherwise stated",
+  "catalogueId": 13157,
+  "citableReference": "WO 97",
+  "closureCode": "30",
+  "closureStatus": null,
+  "closureType": "N",
+  "coveringDates": "1760-1913",
+  "coveringFromDate": 0,
+  "coveringToDate": 19131231,
+  "scopeContent": {
+   "placeNames": null,
+   "description": "<scopecontent><head>Scope and Content</head><p>This is the main series of service documents of soldiers (but not officers) who either became in- or out-pensioners of the Royal Hospital Chelsea. The attestation and discharge documents in this series constitute the most detailed record of a soldier's service. The early part of the series also occasionally contains records of men who bought themselves out of their regiment or who applied unsuccessfully for a pension.</p> <p>The records usually give particulars of age, birthplace, service (including any decorations), information about physical description, previous occupation on enlistment and the reason given for discharge to pension. Documents after 1883 usually contain fuller particulars, such as next of kin and details of marriage and children.</p> <p>The series generally does not contain the records of soldiers who died in service or who took an early discharge and never received a pension. These service records would not have survived because they were not required for pension purposes.</p> <p>The types of document that have most commonly survived are :</p> <p><list><item>discharge forms, which were issued when a soldier left the regiment; </item><item>attestation forms, which are the documents signed by the new recruit; </item><item>the proceedings of a regimental board and record of service, which was a later variety of discharge form; </item><item>a variety of supporting correspondence; </item><item>questionnaires of past service, which an applicant for an in-pension completed if others documents had not survived; </item><item>affidavits, which out-pensioners outside London made every quarter to state that they were not drawing on other public funds.</item></list></p> <p><emph render=&#34italic&#34>PLEASE NOTE: </emph> WO 97 Piece numbers 1 to 6383 inclusive: Electronic images of these records can be searched online through our <extref href=&#34http://www.findmypast.co.uk/search/army-service-records/all&#34>partner website</extref>.</p></scopecontent>",
+   "ephemera": null,
+   "schema": null
+  },
+  "digitised": false,
+  "heldBy": [
+   {
+    "xReferenceId": "A13530124",
+    "xReferenceCode": "66",
+    "xReferenceName": "The National Archives, Kew",
+    "xReferenceType": null,
+    "xReferenceURL": null,
+    "xReferenceDescription": null,
+    "xReferenceSortWord": null
+   }
+  ],
+  "id": "C14305",
+  "isParent": true,
+  "catalogueLevel": 3,
+  "parentId": "C537",
+  "recordOpeningDate": null,
+  "referencePart": "97",
+  "referenceParentId": "C259",
+  "sortKey": "03 0 WO 197 0",
+  "source": null,
+  "title": "<unittitle type=\"Title\">Royal Hospital Chelsea: Soldiers Service Documents</unittitle>"
+ },
+ {
+  "accessConditions": null,
+  "catalogueId": 13234,
+  "citableReference": null,
+  "closureCode": null,
+  "closureStatus": null,
+  "closureType": null,
+  "coveringDates": "1760-1854",
+  "coveringFromDate": 0,
+  "coveringToDate": 18541231,
+  "scopeContent": {
+   "placeNames": null,
+   "description": null,
+   "ephemera": null,
+   "schema": null
+  },
+  "digitised": false,
+  "heldBy": [],
+  "id": "C28938",
+  "isParent": true,
+  "catalogueLevel": 4,
+  "parentId": "C14305",
+  "recordOpeningDate": null,
+  "referencePart": "2",
+  "referenceParentId": null,
+  "sortKey": "04 0 02 0",
+  "source": null,
+  "title": "<unittitle type=&#34Title\">1760-1854: discharge papers arranged by regiment, but each described at item level. (WO 97/1-1271)</unittitle>"
+ },
+ {
+  "accessConditions": null,
+  "catalogueId": 690152,
+  "citableReference": "WO 97/1211",
+  "closureCode": "30",
+  "closureStatus": "O",
+  "closureType": "N",
+  "coveringDates": "1760-1854",
+  "coveringFromDate": 0,
+  "coveringToDate": 18541231,
+  "scopeContent": {
+   "placeNames": null,
+   "description": "<scopecontent><p>Royal Artillery: And - Ayt</p></scopecontent>",
+   "ephemera": null,
+   "schema": null
+  },
+  "digitised": false,
+  "heldBy": [
+   {
+    "xReferenceId": "A13530124",
+    "xReferenceCode": "66",
+    "xReferenceName": "The National Archives, Kew",
+    "xReferenceType": null,
+    "xReferenceURL": null,
+    "xReferenceDescription": null,
+    "xReferenceSortWord": null
+   }
+  ],
+  "id": "C604905",
+  "isParent": true,
+  "catalogueLevel": 6,
+  "parentId": "C28938",
+  "recordOpeningDate": null,
+  "referencePart": "1211",
+  "referenceParentId": "C14305",
+  "sortKey": "06 0 61214000 0#1214000",
+  "source": null,
+  "title": null
+ },
+ {
+  "accessConditions": null,
+  "catalogueId": -4053521,
+  "citableReference": "WO 97/1211/256",
+  "closureCode": "30",
+  "closureStatus": "O",
+  "closureType": "N",
+  "coveringDates": "1811-1835",
+  "coveringFromDate": 0,
+  "coveringToDate": 18351231,
+  "scopeContent": {
+   "placeNames": null,
+   "description": "<scopecontent>  <p>JOHN ATKINSON </p>  <p>Born MANCHESTER, Lancashire</p>  <p>Served in Royal Artillery</p>  <p>Discharged aged 41</p> </scopecontent>",
+   "ephemera": null,
+   "schema": null
+  },
+  "digitised": false,
+  "heldBy": [
+   {
+    "xReferenceId": "A13530124",
+    "xReferenceCode": "66",
+    "xReferenceName": "The National Archives, Kew",
+    "xReferenceType": null,
+    "xReferenceURL": null,
+    "xReferenceDescription": null,
+    "xReferenceSortWord": null
+   }
+  ],
+  "id": "C8853102",
+  "isParent": false,
+  "catalogueLevel": 7,
+  "parentId": "C604905",
+  "recordOpeningDate": null,
+  "referencePart": "256",
+  "referenceParentId": "C604905",
+  "sortKey": "07 0 5256000 0#256000",
+  "source": null,
+  "title": null
+ }
+]

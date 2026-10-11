@@ -1,0 +1,80 @@
+[project]
+name = "tna-discovery-mcp"
+dynamic = ["version"]
+description = "MCP server for Discovery, the catalogue of the UK National Archives: search record descriptions, read one with its place in the hierarchy, browse a series or piece, and find a Chelsea pensioner's discharge papers (WO 97) by name, regiment, birthplace and dates. For genealogy and history."
+readme = "README.md"
+requires-python = ">=3.11"
+license = "MIT"
+license-files = ["LICENSE"]
+authors = [{ name = "Ian Anderson" }]
+keywords = ["mcp", "genealogy", "family-history", "archives", "national-archives", "discovery", "uk", "military-records", "research"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: End Users/Desktop",
+    "Intended Audience :: Science/Research",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: Sociology :: Genealogy",
+    "Topic :: Sociology :: History",
+]
+dependencies = [
+    # Capped below 3: server.compact_schemas reaches into the SDK's private
+    # tool registry, which a major release is free to change.
+    "mcp>=2.0.0,<3",
+    # Capped below 1, and httpcore named: client.PublicOnlyTransport wraps the
+    # network backend inside httpx's connection pool, which is httpcore's and
+    # private to httpx. A release that moves it fails construction, loudly.
+    "httpx>=0.27,<1",
+    "httpcore>=1.0",
+    "pydantic>=2.6",
+    "python-dotenv>=1.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.2",
+    "pytest-asyncio>=0.24",
+    "respx>=0.21",
+    # 0.9 is the oldest ruff whose formatter agrees with the committed style.
+    "ruff>=0.9",
+]
+
+[project.urls]
+Homepage = "https://github.com/ianderso/tna-discovery-mcp"
+Repository = "https://github.com/ianderso/tna-discovery-mcp"
+Issues = "https://github.com/ianderso/tna-discovery-mcp/issues"
+Changelog = "https://github.com/ianderso/tna-discovery-mcp/blob/main/CHANGELOG.md"
+
+[project.scripts]
+tna-discovery-mcp = "tna_discovery_mcp.__main__:main"
+
+[build-system]
+# 1.27 is the first hatchling to accept an SPDX string for `license`.
+requires = ["hatchling>=1.27"]
+build-backend = "hatchling.build"
+
+[tool.hatch.version]
+path = "src/tna_discovery_mcp/__init__.py"
+
+[tool.hatch.build.targets.sdist]
+exclude = [".github"]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/tna_discovery_mcp"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+asyncio_mode = "auto"
+addopts = "-q"
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+ignore = ["B008", "UP042"]

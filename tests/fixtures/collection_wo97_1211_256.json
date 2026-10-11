@@ -1,0 +1,45 @@
+{
+ "assets": [
+  {
+   "accessConditions": null,
+   "catalogueId": -4053521,
+   "citableReference": "WO 97/1211/256",
+   "closureCode": "30",
+   "closureStatus": "O",
+   "closureType": "N",
+   "coveringDates": "1811-1835",
+   "coveringFromDate": 18110101,
+   "coveringToDate": 18351231,
+   "scopeContent": {
+    "placeNames": null,
+    "description": "<scopecontent>  <p>JOHN ATKINSON </p>  <p>Born MANCHESTER, Lancashire</p>  <p>Served in Royal Artillery</p>  <p>Discharged aged 41</p> </scopecontent>",
+    "ephemera": null,
+    "schema": null
+   },
+   "digitised": false,
+   "heldBy": [
+    {
+     "xReferenceId": "A13530124",
+     "xReferenceCode": "66",
+     "xReferenceName": "The National Archives, Kew",
+     "xReferenceType": null,
+     "xReferenceURL": null,
+     "xReferenceDescription": null,
+     "xReferenceSortWord": null
+    }
+   ],
+   "id": "C8853102",
+   "isParent": false,
+   "catalogueLevel": 7,
+   "parentId": "C604905",
+   "recordOpeningDate": null,
+   "referencePart": "256",
+   "referenceParentId": "C604905",
+   "sortKey": "07 0 5256000 0#256000",
+   "source": null,
+   "title": null
+  }
+ ],
+ "hasMoreAfterLast": false,
+ "hasMoreBeforeFirst": false
+}

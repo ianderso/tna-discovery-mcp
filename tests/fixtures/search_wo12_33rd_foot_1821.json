@@ -1,0 +1,72 @@
+{
+ "records": [
+  {
+   "altName": "",
+   "places": [],
+   "corpBodies": [],
+   "taxonomies": [
+    "C10065",
+    "C10092"
+   ],
+   "formerReferenceDep": "",
+   "formerReferencePro": "",
+   "heldBy": [
+    "The National Archives, Kew"
+   ],
+   "context": "Commissary General of Musters Office and successors: General Muster Books and Pay Lists. INFANTRY. 33rd Foot.",
+   "content": "",
+   "urlParameters": null,
+   "department": "WO",
+   "note": "",
+   "adminHistory": "",
+   "arrangement": "",
+   "mapDesignation": "",
+   "mapScale": "",
+   "physicalCondition": "",
+   "catalogueLevel": 6,
+   "openingDate": "",
+   "closureStatus": "O",
+   "closureType": "N",
+   "closureCode": "30",
+   "documentType": null,
+   "coveringDates": "1820-1822",
+   "description": "33rd Foot 1st Battalion.",
+   "endDate": "31/12/1822",
+   "numEndDate": 18221231,
+   "numStartDate": 18200101,
+   "startDate": "01/01/1820",
+   "id": "C2464649",
+   "reference": "WO 12/4812",
+   "score": 428.774445,
+   "source": "100",
+   "title": "33rd Foot 1st Battalion"
+  }
+ ],
+ "taxonomySubjects": [],
+ "timePeriods": [
+  {
+   "code": "1800",
+   "count": 1
+  }
+ ],
+ "departments": [],
+ "catalogueLevels": [],
+ "closureStatuses": [],
+ "sources": [
+  {
+   "code": "100",
+   "count": 1
+  }
+ ],
+ "repositories": [],
+ "heldByReps": [
+  {
+   "code": "TNA",
+   "count": 1
+  }
+ ],
+ "referenceFirstLetters": [],
+ "titleFirstLetters": [],
+ "count": 1,
+ "nextBatchMark": ""
+}
